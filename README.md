@@ -2,7 +2,7 @@
 
 🌟 Descripción
 
-Este proyecto crea una animación interactiva donde corazones siguen el cursor del usuario, con un estilo inspirado en la estética digital de los 2000s. Utiliza HTML, CSS y JavaScript para generar un efecto de brillo neón y un fondo en movimiento.
+Este proyecto crea una animación interactiva donde corazones siguen el cursor del usuario, con un estilo inspirado en la estética digital de los 2000s. Utiliza HTML, CSS y JavaScript para generar un efecto de color y un fondo en movimiento.
 
 🖥️ Tecnologías Utilizadas
 
